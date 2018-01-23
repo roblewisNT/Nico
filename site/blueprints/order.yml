@@ -1,0 +1,20 @@
+title: Order
+
+pages: false
+
+options: 
+  delete: false
+  status: false
+  
+
+
+fields: 
+  title:
+    label: Title
+    type: title
+    
+  hello:
+    label: Hello
+    type: text
+    
+  

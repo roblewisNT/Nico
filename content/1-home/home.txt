@@ -1,0 +1,58 @@
+Title: Home
+
+----
+
+Intro: 
+
+Furniture design
+New Zealand
+
+----
+
+Text: 
+
+## Get started
+
+- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
+- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
+- Follow (twitter: @getkirby) on Twitter for updates
+- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
+- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
+- (link: http://getkirby.com/support text: Get in contact) if you need support.
+
+**Have fun with Kirby!**
+
+----
+
+Heroimage: nico-stool-5.jpg
+
+----
+
+About: 
+
+Through honest materials, a desire for simplicity and lasting craftsmanship, Simon James celebrates the spaces we spend time in. Through the showroom, retail store and online store, our own designs are shared alongside the work of others.
+<br><br>
+Furniture and lighting are accompanied by an evolving edit of clothing, modern artefacts and home goods that go beyond what is necessary. All share common ground in their ability to combine beauty with function, and ritual with basic need.
+
+----
+
+Products: 
+
+- 
+  name: Stool
+  info: |
+    Made from pine wood
+    Blind joinery
+  featureimage: nico-stool-5.jpg
+- 
+  name: Table
+  info: Table description
+  featureimage: nico-table-1.jpg
+
+----
+
+Displaytitle: Nico
+
+----
+
+Introb: 

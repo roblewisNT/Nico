@@ -1,0 +1,112 @@
+Title: Stool
+
+----
+
+Year: 2014
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Info: 
+
+Pine Stool
+<br>
+$130 NZD
+
+----
+
+Materials: 
+
+Made from pine wood
+Blind joints
+
+----
+
+Dimensions: 
+
+H    120mm 
+<br>
+W   90mm 
+<br>
+D    50mm
+
+----
+
+Price: 130 NZD
+
+----
+
+Description: 
+
+From the best selling Bash family by Tom Dixon - the Bash Vase is a large sculptural vase, and a beautiful centrepiece on its own. 
+<br><br>
+Formed of brass and shaped by hand into an expressive crumpled form. Partner with the Bash Platter and Bash Bowls to complete the family. Each piece is unique in shape and finished with a gold wash.
+
+----
+
+Image-list: 
+
+----
+
+Construction: 
+
+Made from pine wood
+<br>
+Blind joinery
+
+----
+
+Slides: 
+
+- 
+  slide: closeup.jpg
+- 
+  slide: creative-tools.jpg
+- 
+  slide: folding-rule.jpg
+
+----
+
+Addresses: 
+
+- 
+  street: 15 Shackleton Road
+  zip: "1024"
+  city: Auckland
+
+----
+
+Slideshow: 
+
+- creative-tools.jpg
+- closeup.jpg
+- folding-rule.jpg
+
+----
+
+First: creative-tools.jpg
+
+----
+
+Second: closeup.jpg
+
+----
+
+Third: folding-rule.jpg
+
+----
+
+Fourth: closeup.jpg
+
+----
+
+Images: 
+
+- nico-stool-5.jpg
+- nico-stool-1.jpg
+- nico-stool-3.jpg
+- nico-stool-2.jpg
+- nico-stool-4.jpg

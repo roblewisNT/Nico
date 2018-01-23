@@ -1,0 +1,43 @@
+title: Project
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+
+  info:
+    label: Info
+    type:  textarea
+    width: 1/2
+    
+  construction:
+    label: Construction
+    type:  textarea
+    width: 1/3
+    
+  dimensions:
+    label: Dimensions
+    type:  textarea
+    width: 1/3
+    
+  price:
+    label: Price
+    type: text
+    width: 1/3
+
+  description:
+    label: Description
+    type:  textarea
+    
+    
+  images:
+    label: Images
+    type: images
+  
+    

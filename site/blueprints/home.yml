@@ -1,0 +1,33 @@
+title: Home
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+    
+  displaytitle:
+    label: Display title
+    type:  text
+    width: 1/2
+
+  intro:
+    label: Intro
+    type:  textarea
+    width: 1/2
+    
+  introb:
+    label: Intro B
+    type:  textarea
+    width: 1/2
+    
+  heroimage: 
+    label: Hero Image
+    type: image
+
+  about:
+    label: About
+    type:  textarea
+    
